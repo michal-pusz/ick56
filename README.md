@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michael
-- 👀 I’m interested in programming ;3
+
 - 🌱 I’m currently mastering React JS with use of TypeScript
-- 💞️ I’m looking to collaborate on interesting projects
+
 - 📫 How to reach me michal.pusz@gmail.com
 
 <!---
